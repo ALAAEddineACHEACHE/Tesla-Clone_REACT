@@ -4,6 +4,7 @@ import "./Section.css"
 import Home from "./Home"
 import Fade from 'react-reveal/Fade';
 
+
 function Section({title,description,backgroundImage,leftBtnText,rightBtnText}) {
     return (
             <Wrap bgImage={backgroundImage}>

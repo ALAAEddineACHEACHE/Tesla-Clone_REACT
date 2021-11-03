@@ -4,7 +4,6 @@ import "./Section.css"
 import Home from "./Home"
 import Fade from 'react-reveal/Fade';
 
-
 function Section({title,description,backgroundImage,leftBtnText,rightBtnText}) {
     return (
             <Wrap bgImage={backgroundImage}>
@@ -35,7 +34,6 @@ function Section({title,description,backgroundImage,leftBtnText,rightBtnText}) {
     )
 
 }
-
 export default Section
 const Wrap = styled.div`
 width:100vw;

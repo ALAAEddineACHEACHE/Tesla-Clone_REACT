@@ -30,9 +30,7 @@ function Section({title,description,backgroundImage,leftBtnText,rightBtnText}) {
                 
                 </Buttons>
                 </Wrap>
-        
     )
-
 }
 export default Section
 const Wrap = styled.div`

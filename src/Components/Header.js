@@ -13,8 +13,6 @@ function Header() {
     // console.log(cars)
    
     return (
-     
-     
             <Container>
            
                 <a>

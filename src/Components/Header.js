@@ -14,7 +14,6 @@ function Header() {
    
     return (
             <Container>
-           
                 <a>
                     <img src="../images/tesla.jpg" width="190px" height="80px" alt="" />
                 </a>

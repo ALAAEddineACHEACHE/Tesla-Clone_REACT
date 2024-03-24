@@ -16,7 +16,6 @@ function Header() {
                 <a>
                     <img src="../images/tesla.jpg" width="190px" height="80px" alt="" />
                 </a>
-              
                 <Menu>
                     <p><a href="#">Model S</a></p>
                     <p><a href="#">Model 3</a></p>

@@ -7,7 +7,6 @@ import CloseIcon from '@material-ui/icons/Close';
 // import {useSelector} from 'react-redux';
 
 function Header() {
-   
     const [burgerStatus,setBurgerStatus] = useState(false);
     // const cars = useSelector(selectCars);
     // console.log(cars)

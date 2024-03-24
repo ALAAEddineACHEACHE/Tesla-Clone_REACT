@@ -40,8 +40,6 @@ function Header() {
                     <li><a href="">Existing Inventory</a></li>
                 </BurgerNav>
             </Container>
-          
-  
        
     )
 

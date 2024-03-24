@@ -43,7 +43,6 @@ function Home() {
                 description = ""
                 backgroundImage = "accessories.jpg"
                 leftBtnText = "Shop now"
-              
                 />
            </Container>
         </div>
